@@ -1,0 +1,5 @@
+OBJECT_BASE 4006001.btg
+OBJECT UTSB.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 64.479130 39.761385 224.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 64.487537 39.788615 226.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 64.481530 39.775264 225.1 0.00
